@@ -1,0 +1,45 @@
+*{margin: 0;
+ 
+}
+.zomato-image{
+background-image: url("zomato.avif");
+height: 620px;
+margin-top: -45px;
+}
+
+.text-image{
+  font-family: roboto, arial;
+  font-weight: lighter;
+  margin-left: 855px;
+  padding-top:80px;
+  width: 350px;
+  font-size: 20px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.text-image-2{
+ color: white;
+ margin-left: 500px;
+ font-family: Okra, Helvetica, sans-serif;
+ font-weight: bolder;
+ font-size: 80px;
+ margin-top: 180px;
+}
+.text-image-3{
+  width: 600px;
+  text-align: center;
+  color: white;
+  margin-top: 20px;
+  margin-left: 350px;
+  margin-right: 94.5px;
+  font-family: Okra, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  
+}
+
+
+
